@@ -1,0 +1,7 @@
+This mini project was started to host a simple website and make it available to the worldwide web
+
+Start of Project
+-Obtained NUC mini pc to host small websever. I included two separate drives, one for the Ubuntu Server Operating 
+	System and the other drive containing my developmet Ubuntu environment.
+-I created a barebones implementation of a website I want to host. Since the barebones website is done, now I must 
+	create a webserver to host the website.  
